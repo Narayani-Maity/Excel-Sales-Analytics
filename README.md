@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/Narayani-Maity/Excel-Sales-Analytics/blob/main/My_Finance%20Report%20(P%26L).pdf)_ 
+    **1.** Create a _[My finance report](https://github.com/Narayani-Maity/Excel-Sales-Analytics/blob/main/My_Finance%20Report%20(P%26L).pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Narayani-Maity/Excel-Sales-Analytics/blob/main/My_Sales%20report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[my sales report](https://github.com/Narayani-Maity/Excel-Sales-Analytics/blob/main/My_Sales%20report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
